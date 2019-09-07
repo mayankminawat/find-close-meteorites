@@ -10,4 +10,5 @@ First, install pipenv. Then:
 ```shell
 pipenv install
 pipenv run "python meteors/find_meteors.py"
+atom find_meteors.py
 ```
